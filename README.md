@@ -27,3 +27,13 @@ Project: [#4 Visualizing Earnings based on College Majors](https://github.com/em
 Project: [#5 Visualizing Gender Gap in College Degrees]()
 <br>
 Project: [#6 Visualizing Geographical Data]()
+
+### Data Cleaning and Analysis
+
+Project: [#7 Clean and Analyze Employee Exit Surveys]()
+
+### Data Cleaning Project Walkthrough
+
+Project: [#8 Analyzing NYC High School Data]()
+<br>
+Project: [#9 Star Wars Survey]()
