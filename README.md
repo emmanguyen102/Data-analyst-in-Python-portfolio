@@ -37,3 +37,10 @@ Project: [#7 Clean and Analyze Employee Exit Surveys]()
 Project: [#8 Analyzing NYC High School Data]()
 <br>
 Project: [#9 Star Wars Survey]()
+
+## Working with Data Sources
+
+### Data analysis in business
+
+Project: [#10 Fuzzy Language_ Finding the best customers]
+
