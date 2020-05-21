@@ -42,5 +42,5 @@ Project: [#9 Star Wars Survey]()
 
 ### Data analysis in business
 
-Project: [#10 Fuzzy Language_ Finding the best customers]
+Project: [#10 Fuzzy Language_ Finding the best customers](https://github.com/emmanguyen102/Dataquest-Data-analyst-in-Python-portfolio/blob/master/%2310%20Fuzzy%20Language_Finding%20the%20best%20customers.ipynb)
 
