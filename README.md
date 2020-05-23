@@ -46,6 +46,6 @@ Project: [#10 Fuzzy Language_Finding the best customers](https://github.com/emma
 <br>
 Project: [#11 Fuzzy Language_Communicating results]()
 <br>
-Project: [#12 Fuzzy Language_Popular Data Science Questions]()
+Project: [#12 Popular Data Science Questions]()
 <br>
-Project: [#13 Fuzzy Language_Business Metrics]()
+Project: [#13 Business Metrics]()
