@@ -1,6 +1,6 @@
 # **Data-analyst-in-Python-track**
 
-Here comes the project series: Data Analyst track in Python, while I was learning Data Science from e-learning platform Dataquest.io with a total of 9 projects and the last 2 massive projects (#8 and #9) walking through everything taught in the track.
+Here comes the project series: Data Analyst track in Python, while I was learning Data Science from e-learning platform Dataquest.io with a total of (updating) projects and the last (updating) massive projects (#8, #9, #12 and updating) walking through everything taught in the track.
 
 ## Introduction to Python
 
