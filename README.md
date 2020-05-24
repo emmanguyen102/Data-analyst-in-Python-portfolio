@@ -1,6 +1,6 @@
-# **Data-analyst-in-Python-track**
+# **Data-analyst-in-Python-series**
 
-Here comes the project series: Data Analyst track in Python, while I was learning Data Science from e-learning platform Dataquest.io with a total of (updating) projects and the last (updating) massive projects (#8, #9, #12 and updating) walking through everything taught in the track.
+Here comes the project series: Data Analyst series 101 in Python. This is a combination of projects ranging from projects from courses I have enrolled in, projects of personal interest, projects I found by chance on the Internet and projects I collaborated with other awesome developers. The more projects I am working on, the more interested I become in data analytics field. This portfolio was first created for me to brush up on my coding skills with Python in field of Data Analytics. However, as time passes, it becomes a mere pleasure simply just to code. Enjoy!
 
 Project: [#1 Profitable App Profiles for the App Store and Google Play Markets](https://github.com/emmanguyen102/Data-analyst-in-Python-project-series/blob/master/%231%20Profitable%20App%20Profiles%20for%20Google%20Play%20and%20App%20Store%20Markets.ipynb)
 <br>
