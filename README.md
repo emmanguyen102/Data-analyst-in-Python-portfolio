@@ -22,8 +22,8 @@ Project: [#9 Star Wars Survey]()
 <br>
 Project: [#10 Fuzzy Language_Finding the best customers](https://github.com/emmanguyen102/Dataquest-Data-analyst-in-Python-portfolio/blob/master/%2310%20Fuzzy%20Language_Finding%20the%20best%20customers.ipynb)
 <br>
-Project: [#11 Fuzzy Language_Communicating results]()
+Project: [#11 Fuzzy Language_Communicating results](https://github.com/emmanguyen102/Dataquest-Data-analyst-in-Python-portfolio/blob/master/%2311%20Fuzzy%20Language%20-%20Communicating%20results%20to%20stakeholders.ipynb)
 <br>
-Project: [#12 Popular Data Science Questions]()
+Project: [#12 Business Metrics](https://github.com/emmanguyen102/Dataquest-Data-analyst-in-Python-portfolio/blob/master/%2312%20Business%20Metrics.ipynb)
 <br>
-Project: [#13 Business Metrics]()
+Project: [#13 Popular Data Science Questions]()
