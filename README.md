@@ -26,4 +26,4 @@ Project: [#11 Fuzzy Language_Communicating results](https://github.com/emmanguye
 <br>
 Project: [#12 Business Metrics](https://github.com/emmanguyen102/Dataquest-Data-analyst-in-Python-portfolio/blob/master/%2312%20Business%20Metrics.ipynb)
 <br>
-Project: [#13 Popular Data Science Questions]()
+Project: [#13 Popular Data Science Questions](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%2313%20Popular%20Data%20Science%20Questions.ipynb)
