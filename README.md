@@ -16,7 +16,7 @@ Project: [#6 Visualizing Geographical Data]()
 <br>
 Project: [#7 Clean and Analyze Employee Exit Surveys]()
 <br>
-Project: [#8 Analyzing NYC High School Data (huge project)](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%238%20Analyzing%20NYC%20High%20School%20Data%20(end-to-end%20data%20analytics%20project).ipynb)
+#### Huge Project: [#8 Analyzing NYC High School Data](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%238%20Analyzing%20NYC%20High%20School%20Data%20(end-to-end%20data%20analytics%20project).ipynb)
 <br>
 Project: [#9 Star Wars Survey]()
 <br>
