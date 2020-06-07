@@ -18,7 +18,7 @@ Project: [#7 Clean and Analyze Employee Exit Surveys]()
 <br>
 Huge Project: [#8 Analyzing NYC High School Data](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%238%20Analyzing%20NYC%20High%20School%20Data%20(end-to-end%20data%20analytics%20project).ipynb)
 <br>
-Project: [#9 Star Wars Survey]()
+Project: [#9 Star Wars Survey](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%239%20Star%20Wars%20Survey%20.ipynb)
 <br>
 Project: [#10 Fuzzy Language_Finding the best customers](https://github.com/emmanguyen102/Dataquest-Data-analyst-in-Python-portfolio/blob/master/%2310%20Fuzzy%20Language_Finding%20the%20best%20customers.ipynb)
 <br>
