@@ -10,7 +10,7 @@ Project: [#3 Exploring eBay Car Sales Data](https://github.com/emmanguyen102/Dat
 <br>
 Project: [#4 Visualizing Earnings based on College Majors](https://github.com/emmanguyen102/Data-analyst-in-Python-project-series/blob/master/%234%20Visualizing%20Earnings%20based%20on%20College%20Majors.ipynb)
 <br>
-Project: [#5 Visualizing Gender Gap in College Degrees]()
+Project (in progress): [#5 Visualizing Gender Gap in College Degrees]()
 <br>
 Project: [#6 Visualizing Geographical Data]()
 <br>
