@@ -12,9 +12,9 @@ Project: [#4 Visualizing Earnings based on College Majors](https://github.com/em
 <br>
 Project: [#5 Visualizing Gender Gap in College Degrees](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%235%20Visualizing%20Gender%20Gap%20in%20College%20Degrees.ipynb)
 <br>
-Project: [#6 Visualizing Geographical Data]()
+Project: [#6 Visualizing Geographical Data](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%236%20Visualizing%20Geographic%20Data%20.ipynb)
 <br>
-Project (in progress): [#7 Clean and Analyze Employee Exit Surveys]()
+Project: [#7 Clean and Analyze Employee Exit Surveys](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%237%20Clean%20and%20analyze%20Employee%20Exit%20Surveys.ipynb)
 <br>
 Huge Project: [#8 Analyzing NYC High School Data](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%238%20Analyzing%20NYC%20High%20School%20Data%20(end-to-end%20data%20analytics%20project).ipynb)
 <br>
