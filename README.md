@@ -27,3 +27,4 @@ Project: [#11 Fuzzy Language_Communicating results](https://github.com/emmanguye
 Project: [#12 Business Metrics](https://github.com/emmanguyen102/Dataquest-Data-analyst-in-Python-portfolio/blob/master/%2312%20Business%20Metrics.ipynb)
 <br>
 Project: [#13 Popular Data Science Questions](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%2313%20Popular%20Data%20Science%20Questions.ipynb)
+Project: [#14 Page Visits Funnel Analysis](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%2314%20Page%20Visits%20Funnel%20Analysis/script.py)
