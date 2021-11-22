@@ -4,10 +4,9 @@ INTRODUCTION
 
 This is a self-interest project to analyze calories and sugar in dishes from 2 fast food chain: McDonald's and Burger King.
 * Dataset can found in [Kaggle](https://www.kaggle.com/nccu109zu1018/nccu-final-presentation/data)
-* Inspiration [vizualization](https://public.tableau.com/app/profile/andy.kriebel/viz/MakeoverMondayWeek45-GlobalShareofNintendoSwitchSoftwareHardwareSales/MM2020W45) from Andy Kriebel: 
+* Inspiration [vizualization](https://public.tableau.com/app/profile/andy.kriebel/viz/MakeoverMondayWeek45-GlobalShareofNintendoSwitchSoftwareHardwareSales/MM2020W45) from Andy Kriebel
 
-The aim of this analysis is to figure out the calories and sugar consumption regarding each meal in McDonald's and Burger King. Besides that, we would want to see
-the comparison of this 2 fast food chain in terms of calories and sugar amount for same dish. 
+The aim of this analysis is to figure out the calories and sugar consumption regarding each meal in McDonald's and Burger King. Besides that, we would want to see the comparison of this 2 fast food chain in terms of calories and sugar amount for same dish. 
 
 
 
@@ -22,7 +21,7 @@ This module requires the following tools and packages:
 
 PROCEDURE
 ---------
-1. Data transformation with Python: new transformed data is saved in [file]()
+1. Data transformation with Python: new transformed data is saved in [file](https://github.com/emmanguyen102/Data-analyst-in-Python-portfolio/blob/master/%2315%20Calories%20and%20sugar%20analysis%20in%20fast%20food%20chain/new_nutrition_values.csv)
 3. Data vizualization with Tableau
 
 
